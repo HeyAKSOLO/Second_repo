@@ -1,3 +1,7 @@
 p{
     color : aqua;
 }
+button {
+    padding: 5%;
+    border-radius: 5%;
+}
